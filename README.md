@@ -5,7 +5,7 @@ Some equation in LaTeX format
 
 Capacitive 
 
-$$X_c = \dfrac{1}{2\pi fC}$$
+$$X_c = -\dfrac{1}{2\pi fC}$$
 
 Inductive
 
